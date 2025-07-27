@@ -25,11 +25,6 @@ With 10+ years of experience building scalable web applications using **Django**
 
 🔗 [Repo or description if private]
 
-### 🎮 XR Playground System (Prototype)  
-> Interactive physical gaming prototype inspired by Nex Playground using OAK-D + Unity + Computer Vision.
-
-🔗 [Repo / Prototype demo]
-
 ## 📬 Contact
 
 - 🌐 [www.viglascode.com](https://viglascode.com)
