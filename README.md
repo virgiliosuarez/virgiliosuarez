@@ -1,36 +1,82 @@
 # 👋 Hi, I'm Virgilio Suarez
 
-🎯 Full Stack Software Engineer | Founder @ Viglascode | SaaS & AI Innovator
+🎯 Full Stack Software Engineer | Founder @ Viglascode  
+🧠 SaaS • ERP • AI • Computer Vision • Automation
 
-With 10+ years of experience building scalable web applications using **Django**, **React**, **PostgreSQL**, **Docker**, and **Redis**. Currently leading development at **Viglascode**, a custom software firm focused on automation, project management, and AI integrations.
-
-## 🛠️ Tech Stack
-
-- 🔹 Python / Django / FastAPI
-- 🔹 React / React Native / Expo
-- 🔹 PostgreSQL / Redis
-- 🔹 Docker / GitHub Actions / NGINX
-- 🔹 OpenAI / Computer Vision (YOLO) / MediaPipe
-- 🔹 Stripe / Google APIs / QuickBooks API
-
-## 🚀 Featured Projects
-
-### 🔧 Multi-Company Project Management SaaS  
-> Platform that handles quotations, technical visits, stock analysis, AI-assisted blueprint parsing, and payment integration.
-
-🔗 [Private Repository] - Working prototype built with Django + React + Stripe + GPT
-
-### 📦 Inventory System with Barcode Scanning  
-> Warehouse inventory control with barcode-based input/output, PO generation, and QuickBooks reconciliation.
-
-🔗 [Repo or description if private]
-
-## 📬 Contact
-
-- 🌐 [www.viglascode.com](https://viglascode.com)
-- 💼 [LinkedIn](https://linkedin.com/in/virgilio-suarez-bello)
-- ✉️ virgilio@viglascode.com
+I build **production-grade software** for real businesses — not demos.
+Specialized in **multi-tenant SaaS**, **AI-assisted systems**, and **warehouse / field operations**.
 
 ---
 
-_"Let's build smart software that works for people."_  
+## 🚀 What I Build
+
+- Multi-company SaaS platforms
+- ERP & Inventory systems
+- AI-powered automation (GPT, YOLO, CV)
+- Mobile apps for field teams (offline-first)
+- Secure, scalable backend architectures
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- Python, Django, FastAPI
+- PostgreSQL, Redis
+- Celery, WebSockets
+
+**Frontend & Mobile**
+- React, React Native, Expo
+- Redux, Offline sync
+
+**DevOps**
+- Docker, NGINX
+- GitHub Actions, CI/CD
+
+**AI / Integrations**
+- OpenAI API (GPT)
+- YOLO, MediaPipe
+- Stripe, Google APIs, QuickBooks
+
+---
+
+## 📌 Featured Projects
+
+### 🔧 Multi-Company Project Management SaaS
+**Django + React + Stripe + GPT**
+
+- Quotations & project lifecycle
+- Technical visits & scheduling
+- Inventory & PO automation
+- AI-assisted blueprint parsing
+- Multi-role system (admin, technician, client)
+
+🔒 Private repo — architecture & demos available on request
+
+---
+
+### 📦 Inventory & Warehouse System
+**Barcode-driven stock control**
+
+- Warehouse sections & racks
+- Stock adjustments & audit logs
+- Automatic PO generation
+- QuickBooks reconciliation
+- Multi-company isolation
+
+---
+
+### 🤖 AI & Computer Vision Experiments
+- Blueprint analysis with YOLO
+- Warehouse object detection
+- GPT-assisted reporting & workflows
+
+---
+
+## 📬 Contact
+
+🌐 https://www.viglascode.com  
+💼 LinkedIn: https://linkedin.com/in/virgiliosuarez  
+✉️ virgilio@viglascode.com
+
+> _"Let’s build smart software that actually works in the real world."_
