@@ -76,7 +76,7 @@ Specialized in **multi-tenant SaaS**, **AI-assisted systems**, and **warehouse /
 ## 📬 Contact
 
 🌐 https://www.viglascode.com  
-💼 LinkedIn:   https://www.linkedin.com/in/virgilio-suarez-bello
+💼 LinkedIn:   https://www.linkedin.com/in/virgilio-suarez-bello. 
 ✉️ virgilio@viglascode.com
 
 > _"Let’s build smart software that actually works in the real world."_
